@@ -1,0 +1,194 @@
+*
+{
+margin:0px;
+padding:0px;
+}
+
+body
+{
+display:block;
+text-align:center;
+background-image: linear-gradient(to right, white, pink);
+font-family:Lucida Handwriting;
+margin:0px;
+}
+
+body h1
+{
+color:lightsalmon;
+}
+
+audio
+{
+float:left;
+border-style:solid;
+width:1300px;
+height:20px;
+}
+
+div 
+{
+box-shadow: pink 10px 10px 10px;
+border-style:solid;
+border-color: lightpink;
+border-width: 2px;
+float:left;
+width:650px;
+height:450px;
+}
+
+div > header
+{
+background-color:white;
+}
+
+div > header nav
+{
+border-style:solid;
+border-top:solid;
+border-color:lightpink;
+border-width:2px;
+width:592px;
+padding: 10px 25px 10px 30px;
+
+}
+
+div > header nav ul li 
+{
+display:inline;
+}
+
+div > header nav ul li a
+{
+text-decoration:none;
+color:#000000;
+}
+
+.aktiv
+{
+color:salmon;
+}
+
+div > main
+{
+
+}
+
+div > main article
+{
+
+}
+
+div > main article h1
+{
+
+}
+
+div > main article p
+{
+
+}
+
+div > aside
+{
+
+}
+
+div > aside h1
+{
+
+}
+
+div > aside p
+{
+
+}
+
+div > footer small
+{
+
+}
+
+div one
+{
+box-shadow: pink 10px 10px 10px;
+border-style:solid;
+border-color: lightpink;
+border-width: 2px;
+float:left;
+width:650px;
+height:450px;
+}
+
+div one > header
+{
+background-color:white;
+}
+
+div one > header nav
+{
+border-style:solid;
+border-top:solid;
+border-color:lightpink;
+border-width:2px;
+width:592px;
+padding: 10px 25px 10px 30px;
+
+}
+
+div one > header nav ul li 
+{
+display:inline;
+}
+
+div one > header nav ul li a
+{
+text-decoration:none;
+color:#000000;
+}
+
+.aktiv
+{
+color:salmon;
+}
+
+div one > main
+{
+
+}
+
+div one > main article
+{
+
+}
+
+div one > main article h1
+{
+
+}
+
+div one > main article p
+{
+
+}
+
+div one > aside
+{
+
+}
+
+div one > aside h1
+{
+
+}
+
+div one > aside p
+{
+
+}
+
+div one > footer small
+{
+
+}
+
